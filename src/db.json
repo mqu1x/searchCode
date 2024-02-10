@@ -1,0 +1,128 @@
+[
+    {
+        "country": "Россия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png?20120812011549",
+        "language": "русский",
+        "capital": "Москва",
+        "currency": "российский рубль",
+        "territory": "17 125 191 км²",
+        "areaTop": 1
+    },
+    {
+        "country": "Китай",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "language": "китайский",
+        "capital": "Пекин",
+        "currency": "китайский юань",
+        "territory": "9 598 962 км²",
+        "areaTop": 4
+    },
+    {
+        "country": "Индия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20230227224022",
+        "language": "хинди, английский",
+        "capital": "Нью-Дели",
+        "currency": "индийская рупия",
+        "territory": "3 287 263 км²",
+        "areaTop": 7
+    },
+    {
+        "country": "США",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png?20150326181342",
+        "language": "американский, английский",
+        "capital": "Вашингтон",
+        "currency": "доллар США",
+        "territory": "9 833 517 км²",
+        "areaTop": 3
+    },
+    {
+        "country": "Бразилия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+        "language": "португальский",
+        "capital": "Бразилиа",
+        "currency": "бразильский реал",
+        "territory": "8 515 767 км²",
+        "areaTop": 5
+    },
+    {
+        "country": "Индонезия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/2560px-Flag_of_Indonesia.svg.png",
+        "language": "индонезийский, малайский",
+        "capital": "Джакарта",
+        "currency": "индонезийская рупия",
+        "territory": "1 904 569 км²",
+        "areaTop": 4
+    },
+    {
+        "country": "Пакистан",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png",
+        "language": "урду, английский",
+        "capital": "Исламабад",
+        "currency": "пакистанский рупий",
+        "territory": "881 913 км²",
+        "areaTop": 35
+    },
+    {
+        "country": "Япония",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png",
+        "language": "японский",
+        "capital": "Токио",
+        "currency": "японская иена",
+        "territory": "377 915 км²",
+        "areaTop": 63
+    },
+    {
+        "country": "Мексика",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/800px-Flag_of_Mexico.svg.png",
+        "language": "испанский",
+        "capital": "Мехико",
+        "currency": "мексиканский песо",
+        "territory": "1 972 550 км²",
+        "areaTop": 13
+    },
+    {
+        "country": "Франция",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+        "language": "французский",
+        "capital": "Париж",
+        "currency": "евро",
+        "territory": "547 030 км²",
+        "areaTop": 43
+    },
+    {
+        "country": "Великобритания",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png",
+        "language": "английский",
+        "capital": "Лондон",
+        "currency": "фунты стерлингов",
+        "territory": "242 900 км²",
+        "areaTop": 78
+    },
+    {
+        "country": "Италия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png",
+        "language": "итальянский",
+        "capital": "Рим",
+        "currency": "евро",
+        "territory": "301 340 км²",
+        "areaTop": 67
+    },
+    {
+        "country": "Германия",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png",
+        "language": "немецкий",
+        "capital": "Берлин",
+        "currency": "евро",
+        "territory": "357 022 км²",
+        "areaTop": 56
+    },
+    {
+        "country": "Турция",
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png?20210808085121",
+        "language": "турецкий",
+        "capital": "Анкара",
+        "currency": "турецкая лира",
+        "territory": "783 562 км²",
+        "areaTop": 36
+    }
+]
